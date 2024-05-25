@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\consoleapp1\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\consoleapp1\\mlmodel1.consumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mlmodel1.consumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A873FD3-03F0-4FFB-A1D6-2A2755C836DC}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\mlmodel1_consoleapp1\\mlmodel1_consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A873FD3-03F0-4FFB-A1D6-2A2755C836DC}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|solutionrelative:mlmodel1_consoleapp1\\mlmodel1_consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A873FD3-03F0-4FFB-A1D6-2A2755C836DC}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\mlmodel1_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A873FD3-03F0-4FFB-A1D6-2A2755C836DC}|MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj|solutionrelative:mlmodel1_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\consoleapp1\\housingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\housingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mynam\\onedrive\\desktop\\consoleapp1\\consoleapp1\\housing.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE055BCB-9FE3-4FB7-9900-F284798A3E4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\housing.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\MLModel1_ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MLModel1_ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\MLModel1_ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "MLModel1_ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:36:19.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MLModel1_ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj",
+              "RelativeToolTip": "MLModel1_ConsoleApp1\\MLModel1_ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T02:36:04.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MLModel1.consumption.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\MLModel1.consumption.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MLModel1.consumption.cs",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\MLModel1.consumption.cs",
+              "RelativeToolTip": "ConsoleApp1\\MLModel1.consumption.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:34:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLModel1.mbconfig",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\MLModel1.mbconfig",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MLModel1.mbconfig",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\MLModel1.mbconfig*",
+              "RelativeToolTip": "ConsoleApp1\\MLModel1.mbconfig*",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2024-05-25T02:25:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HousingData.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\HousingData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\HousingData.cs",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\HousingData.cs",
+              "RelativeToolTip": "ConsoleApp1\\HousingData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:39:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "housing.csv",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\housing.csv",
+              "RelativeDocumentMoniker": "ConsoleApp1\\housing.csv",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\housing.csv",
+              "RelativeToolTip": "ConsoleApp1\\housing.csv",
+              "ViewState": "AQIAACsFAAAAAAAAAAAAAAMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-25T01:31:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mynam\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:16:47.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
